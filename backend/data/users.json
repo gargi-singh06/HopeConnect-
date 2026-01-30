@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Demo User",
+    "email": "user@test.com",
+    "role": "user",
+    "donations": [],
+    "volunteerApplications": []
+  }
+]

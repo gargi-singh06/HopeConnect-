@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "ngoId": 1,
+    "title": "Clean Water for 500 Villages",
+    "goal": 500000,
+    "raised": 325000
+  },
+  {
+    "id": 2,
+    "ngoId": 1,
+    "title": "Education for 10K Children",
+    "goal": 800000,
+    "raised": 420000
+  }
+]
